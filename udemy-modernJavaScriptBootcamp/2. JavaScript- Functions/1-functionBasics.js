@@ -30,7 +30,7 @@ let fahrenheitToCelsius =  function (fahrenheit){
 //call it a couple of times (32->0) (68->20)
 valueOne = fahrenheitToCelsius(32);
 valueTwo = fahrenheitToCelsius(68);
-valueThree = fahrenheitToCelsius(47);
+valueThree = fahrenheitToCelsius(46.5);
 
 //print the converted values
 console.log(valueOne);
