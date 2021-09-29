@@ -1,0 +1,53 @@
+
+(Introduction)
+HTML is widely used on web
+
+It is mainly the content of the web 
+It is very vital for communication between people and between machines
+
+
+(The role o HTML)
+- The web is programmed using three programming languages (HTML, CSS, and JavaScript)
+HTML stands for HyperTextMarkupLanguage --> It marks up the website
+CSS stands for cascading syle sheeet --> It is used to make website visually pleasent and make simple animation 
+JavaScript is used for adding logic and functionality to the website
+
+The web differs from any programming 
+-- Web is designed to run on any operating system (mac, windows, linux,  ...)
+-- Every web page ever made very long ago is still running now 
+-- web is designed to be ropust and powerful 
+
+(HTML Syntax)
+-- HTML is based on tags 
+-- tags are something like <p> which is paragraph tag 
+-- the syntax is very simple but the question is which for which 
+-- tags are mainly divided into opening tags and closing tags 
+-- <p> this is an opening tag
+-- </p> this is closing tag 
+-- the whole thing is called an element ( opening tag + content + closing tag )
+-- some elements don't have an ending tag
+-- tags can be nested inside each others 
+-- structure nesting is very important for the browser 
+-- Browser build DOM tree and accessibility tree 
+-- one of the most common mistakes in HTML is forgetting to add the losing tag 
+
+------- codepin.com --> This website is used to test little codes 
+
+(paragraphs)
+-- paragraphs are made like this <p> paragraph </p> 
+
+(headlines)
+-- web pages hhave a lot of titles ( headlines and subheadines )
+-- There are six slements for headline h1, h2,......., h6
+-- h1 is the biggest headline and h6 is the most little one
+-- h1 > h2 > h3 > h4 > h5 > h6
+-- we will make a choice based on what does it mean not how does it look
+-- It helps a lot with accessibility
+
+
+(bold and italic)
+-- there are two elements for bold and two elements for italic
+-- verbally emphasized VS. visually represented
+-- <i> --> etalic used only for visual representation
+-- <em> --> etalic used for emphasizing some content
+ 
