@@ -50,4 +50,35 @@ The web differs from any programming
 -- verbally emphasized VS. visually represented
 -- <i> --> etalic used only for visual representation
 -- <em> --> etalic used for emphasizing some content
- 
+-- <b>  --> visual-only bold
+-- <strong> --> represent important words
+
+
+(lists)
+HTML contains
+1- unordered lists  <ul> --> <li>
+2- ordered lists    <ol> --> <li>
+3- definition lists <dl> --> <dd>, <dt>
+
+(Quotes)
+<block quotes> is used for a block of quote
+<cite>         is used for citation
+<q>            is used for quotes inside another content like paragraphs
+
+
+(dates and times)
+only one element for anything related to date and time
+<time> 
+datetime attribute is used to set date, time zone, and time
+
+(HTML entities)
+&lt; --> opening
+&gt; --> closing
+
+
+
+
+
+
+
+
