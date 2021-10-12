@@ -74,8 +74,71 @@ datetime attribute is used to set date, time zone, and time
 (HTML entities)
 &lt; --> opening
 &gt; --> closing
+ Those two are very useful in case we are writing about HTML elements
+
+<br> --> line break --> a simple tag that makes a break 
+<pre> --> an element that makes browser observe each whitespace in the content of the pre tag
 
 
+(subscripts, super scripts, and amall texts)
+<sub> --> like 2 in H2O
+<sup> --> like 8 in 10^8
+<small> --> for texts that we intend to write it small or not so important
+
+(attributes)
+some attributes works for single element 
+and there are global attributes like:
+ --class           --> used a lot with CSS 
+ --id              --> used only once (not preferred)
+ --contenteditable --> let the user edit the content   
+ --dit = "rtl"\"ltr--> for texts that are read fromm left to right or from right to left
+
+(ARIA rule)
+ it is meant to make the web accessible for everyone, providing many tools to help people with disabilities
+
+ (formatting)
+ in HTML comments are like <!-- some comment -->
+
+ (weird charecters)
+  &copy;    --> makes a copy rights mark
+  &trade;   --> makes a TM single
+  &star;    --> makes a star
+  &nbsp;    --> non breaking space
+
+
+  (linking and navigation)
+
+  links     --> <a href = "a website">anything</a>
+href --> hypertext refrence
+  ** we can make a local refrence (not on the internet) 
+  ** Local refrences work only with local HTML files
+
+  ** we can make a nvigation bar by making a list of the items in the bar with wrapping each element with an a element
+    The whole unordered list shouldbe wrapped into <nav> element 
+
+(images and graphics)
+
+images  <img> 
+attriputes: source attripute (src), alternative attribute (alt), width, height
+
+image formats: Goal is High quality with Small file size
+GIF: is the oldest and cab handle simple animation
+SvG: uses vector graphics instead of pixels --> can vary in size with high quality
+SVG --> Scalabale Vector graphics
+JPG: it is compressable to very small size
+PNG: it helps in images with the transperant parts
+
+(responsive design for images)
+We can let the browser and computer decide whichever image fits the screen resolution 
+--> This an be done by using srcset attribute with comma separated sources for the image(s)
+
+
+**captions can be made by <figcaption> element 
+** The <img> and <figcaption> will be wrapped in <figure> element
+
+** The <picture> element gives you the flexibility you need to change content as well as image size.
+
+(Media)
 
 
 
