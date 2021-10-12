@@ -10,3 +10,6 @@ const hummus = function(factor){
         console.log(`${ingredientAmount} ${unit}`,${namee})
     }
 }
+
+
+// Lexical scoping --> an approach of binding
