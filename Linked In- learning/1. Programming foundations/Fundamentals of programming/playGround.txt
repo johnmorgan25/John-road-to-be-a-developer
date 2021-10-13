@@ -1,7 +1,0 @@
-What is programming?
---> programming is giving a computer specific sequential orders 
---> It is like following a recipie 
-
-What is programming language?
---> Programming language is like normal language 
---> 

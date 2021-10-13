@@ -1,0 +1,32 @@
+What is programming?
+--> programming is giving a computer specific sequential orders 
+--> It is like following a recipie 
+
+What is programming language?
+--> programming languages (like normal languages) are set of rule that are standard so computer can understand them 
+--> They are meant to be understandable by computers and by other programmers
+
+Why there are many programming languages?
+--> We use computers for a lot of different uses, each programming language is tailored for use(s)
+
+Source code?
+--> It is the syntax that is rewuired to be written within the programming language set of rules so the computer can do the task
+
+IDE  or text editor?
+--> We can't use a word processor for writing the source code
+--> IDE provide more tools for progrmming than the text editor
+
+How to run code? 
+--> Writing the source code doesn't make it understandable
+--> We need to run the source code so it can do the task that the code was built to do 
+--> There are three ways to run the code:
+1- Compiler            --> Takes a high level programming language and turns it into an excutable low level programming language (no need for source code)
+2- Interpreter         --> process source code every time line by line (like javascript) 
+3- combination of both --> like python and Java 
+--> The difference between compiling and interpreting is blury nowadays 
+
+IDE 
+--> Integrated Development Environment 
+--> provide the tools for writing, Debugging, and testing programs 
+--> X-code --> Used for Apple products
+
