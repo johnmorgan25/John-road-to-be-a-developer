@@ -1,0 +1,16 @@
+What is git?
+--> Git is a version control system 
+--> It is a software that keeps track of changes of  certain file 
+--> Git is very useful for kkeping track of text files
+
+GIT History
+--> Git is not the first VCS created 
+--> The first popular generation SCCS -> Source Code Control system -> It was bundled for free with Unix
+--> SCCS Keeped the original file + changes added on the file 
+--> RCS -> Revision control system -> Uses a smarter way -> Keeps the newest version of the file 
+--> CVS -> Concurrent Versions System -> Multible files \ entire project 
+--> SVN -> Apache Subversion --> Open Source --> Track texts and images 
+--> Bitkeeper SCM -> Closed source (Proprietary)
+--> GIT --> Created in 2005 by Linus Torvalds 
+
+
