@@ -34,10 +34,13 @@ console.log(pageSummary);
 
 //Challenge Area
 let fahrenheitToOther =  function (fahrenheit){
-  let celsius = (fahrenheit-32)*(5/9);
-  let kelvin = celsius + 273;
   return {
-    tempCelsius : `Temprature in celsius is ${celsius}`
-    tempKelvin  : 
+    fahrenheit : fahrenheit,
+    celsius :  (fahrenheit-32)*(5/9),
+    kelvin :   (fahrenheit+459.67)*(5/9)
   };
 }
+
+let temprature = fahrenheitToOther(30);
+
+console.log(temprature);
