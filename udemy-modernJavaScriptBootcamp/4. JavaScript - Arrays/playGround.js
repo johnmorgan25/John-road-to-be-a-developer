@@ -86,3 +86,19 @@ console.log(testArray);
 // [ 'a', 'added item', 'c', 4, 5, 6 ]
 
 
+
+//Map --> Do mapping ina new array 
+testArray = [1,2,3,4,5,6];
+newArray = testArray.map(item => item*item);
+console.log(newArray);
+// Output:
+// [ 1, 4, 9, 16, 25, 36 ]
+
+
+//filter --> Keeps items in the array with certain conditions
+//in this example we will filter strings (Keep numbers)
+testArray = ['a','b','c',4,5,6];
+testArray.filter(item => typeof(item) === 'number');
+console.log(testArray);
+// Output : 
+// [ 1, 2 ]
